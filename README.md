@@ -20,7 +20,7 @@
 I am a Computer Science student with a strong interest in **Artificial Intelligence**, **Machine Learning**, and **Data Science**. I focus on building scalable machine learning logic—from **Regression Analysis** to **Production-Ready Pipelines**—to solve real-world data problems.
 
 ### 🏛 Academic Background
-*   **B.Tech in Computer Science Engineering** — Amity School of Technology (2nd Year)
+*   **B.Tech in Computer Science Engineering** — Amity School of Technology (3rd Year)
 
 ### 🛠 Technical Skills
 | Category | Technologies |
